@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Vladislav-Fedorenko
 - 👀 I’m interested in web-applications (java, kotlin, go a bit, ansible)
+- 🌴 I'm currently learned python, bash, go, terraform. Also I further investigate java, kotlin, ansible.
 - 📫 How to reach me - email me fedorenko.vladislav.k@gmail.com
 
 <!---
