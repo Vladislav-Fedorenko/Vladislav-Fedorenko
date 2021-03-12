@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vladislav-Fedorenko
 - 👀 I’m interested in web-applications (java, kotlin, go a bit, ansible)
-- 🌱 I’m currently learning ...
 - 📫 How to reach me - email me fedorenko.vladislav.k@gmail.com
 
 <!---
